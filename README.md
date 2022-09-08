@@ -15,8 +15,9 @@ Contact system database
 - Create procedure with output parameter
 - Create Procedure with TVP
 - Debugging and TroubleShooting Stored Procedure using Try / Catch
+> [My queries](https://github.com/EbrahimTarek/Contact_System/blob/main/Contact%20database.sql)
 - ### ERD 
 - ![image](https://user-images.githubusercontent.com/93515671/189213273-2835ac50-b2bc-417d-8e8a-24b0583c92aa.png)
-> [My solutions](https://github.com/EbrahimTarek/Contact_System/blob/main/Contact%20database.sql)
+
 
 
