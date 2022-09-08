@@ -7,5 +7,14 @@ Contact system database
 #### She recieves a quick debriefing from her manager .. the database structure has been finalized and it captures everything the system needs 
 #### The only problem  is there's no way of adding ,updating or removing data to and from the system absolutely No code has been written to support inserts,updates,or deletes and the system can't even read records from the database at the moment 
 #### Grace has been asked to write a database code that allow the website to read the contact details out of the system and to allow records to be inserted 
-## let's help Grace with her prblem
+## let's help Grace with her prblem by some steps 
+## SQL Skills gained
+### 1.Create Database
+### 2.Create Tables
+### 3.Make Constraints
+### 4.
+### 5.Bulk Insert
+### 6.Create procedure with output parameter
+### 7.Create Procedure with TVP
+### 8.Debugging and TroubleShooting Stored Procedure using Try / Catch
 
