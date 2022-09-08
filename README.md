@@ -1,4 +1,7 @@
 # Contact_System
 Contact system database
 ## Case Study
-Grace is a developer at Dolly's Dolls ,a company that supplies dolls toy shops, Her team has been working on a contact system which will allow staff at dolly's Dolls to capture Contact Info for their Customers ,Suppliers , and other type of contact .
+### Grace is a developer at Dolly's Dolls ,a company that supplies dolls toy shops, Her team has been working on a contact system which will allow staff at dolly's Dolls to capture Contact Info for their Customers ,Suppliers , and other type of contact .
+### This is the first phase in a redevelopment of the Dolly's Dolls systems and all is going well until a database developer left the company 
+### Management are scrambling to recruit a new database developer but in the meantime ,deadlines are looming and Grace has been asked to move from website development to database development .This Put Grace into a mild state of panic and she doesn't Know anything about programming 
+### She recieves a quick debriefing from her manager . the database structure has been finalized 
