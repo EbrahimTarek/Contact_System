@@ -11,9 +11,10 @@ Contact system database
 - Create Database
 - Create Tables
 - Make Constraints
-- Buildind DataBase Diagram
 - Bulk Insert
 - Create procedure with output parameter
 - Create Procedure with TVP
 - Debugging and TroubleShooting Stored Procedure using Try / Catch
+- ### ERD 
+![image](![image](https://user-images.githubusercontent.com/93515671/189212963-2a52d715-277c-499d-8b31-6b3e6946ad12.png))
 
