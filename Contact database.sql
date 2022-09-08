@@ -255,15 +255,6 @@ EXEC dbo.InsertContactNotes
 	@ContactId = 189,
 	@Notes = @MyNotes
 
-
-
-
-
-
-
-
-
-
 -- create procedure using (transaction & try and catch )
 alter procedure dbo.InsertContactRoles(@ContactId int , @RoleTitle varchar(200))
 as
